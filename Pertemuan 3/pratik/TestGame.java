@@ -13,9 +13,10 @@ public class TestGame {
     GamePlayer P1 = new GamePlayer( );
     GameEnemy  bot = new GameEnemy();
     P1.setposition(30,40);
+    P1.Run(30);
     P1.Run();
     bot.Run();
-    P1.Run(30);
+   
     
    
      }
