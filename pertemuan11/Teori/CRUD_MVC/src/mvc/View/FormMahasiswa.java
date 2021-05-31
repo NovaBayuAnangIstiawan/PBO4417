@@ -23,7 +23,7 @@ import javax.swing.text.*;
 
 /**
  *
- * @author ASUS
+ * @author bayu
  */
 public class FormMahasiswa extends javax.swing.JFrame {
     
